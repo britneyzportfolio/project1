@@ -10,7 +10,6 @@ This project focuses on analyzing historical sales data to understand profitabil
 * **Version Control:** GitHub
 
 ## 📊 Visuals
-*(Insert screenshot of your Sales Dashboard here)*
 [Sales Dashboard]https://github.com/britneyzportfolio/project1/blob/main/pro1.png
 
 ## 🔑 Key Features
