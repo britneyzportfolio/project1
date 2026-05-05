@@ -11,7 +11,7 @@ This project focuses on analyzing historical sales data to understand profitabil
 
 ## 📊 Visuals
 *(Insert screenshot of your Sales Dashboard here)*
-![Sales Dashboard](link-to-your-image.png)
+[Sales Dashboard]https://github.com/britneyzportfolio/project1/blob/main/pro1.png
 
 ## 🔑 Key Features
 * **Profitability Analysis:** Interactive breakdown of profit margins by product category and region.
