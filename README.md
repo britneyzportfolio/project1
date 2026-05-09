@@ -1,38 +1,31 @@
-# project1
+
 # Sales and Profitability Dashboard
 
-## 🎯 Objective
-This project focuses on analyzing historical sales data to understand profitability trends across different product categories and regions. The goal is to provide data driven insights that support strategic decision making for business growth.
-
-## 🛠 Tech Stack
-* **Analysis & Modeling:** Microsoft Excel (Pivot Tables, Data Cleaning)
-* **Visualization:** Power BI (DAX, Interactive Dashboards)
-* **Version Control:** GitHub
-
-## 📊 Visuals
-[Sales Dashboard]https://github.com/britneyzportfolio/project1/blob/main/pro1.png
-
-## 🔑 Key Features
-* **Profitability Analysis:** Interactive breakdown of profit margins by product category and region.
-* **Trend Visualization:** Time series charts showcasing monthly and quarterly sales performance.
-* **Dynamic Filtering:** Customizable slicers to analyze specific date ranges and market segments.
-
-## 📈 Business Insights
-* Identified key drivers of profitability, enabling better resource allocation.
-* Visualized sales trends to support inventory management and purchase planning.
-* Improved visibility into underperforming product segments.
-
-## 💡 Key Learnings
-* Gained proficiency in creating DAX measures to calculate complex metrics.
-* Developed an ability to identify and clean "dirty" data effectively.
-* Enhanced storytelling skills by presenting complex data through simple, actionable visuals.
-
-## 🚀 Future Enhancements
-* Adding a Year-over-Year (YoY) growth comparison feature.
-* Implementing customer segmentation to analyze purchasing behavior.
+## 📊 Dashboard Preview
+[Sales Dashboard](pro1.png)
 
 
-## 📫 Let's Connect!
-* **LinkedIn:** https://www.linkedin.com/in/britney-senaratne-5069a3249?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* **Portfolio:**https://github.com/britneyzportfolio/britneyzportfolio
-* **Email:** britneysnr28@gmail.com
+
+
+
+
+
+
+
+## 📌 Business Overview
+In a competitive retail environment, understanding the balance between revenue growth and profit margins is critical. This project provides a high level visual analytics solution to monitor sales performance and identify operational inefficiencies.
+
+## 🚀 Business Value
+* **Margin Optimization:** Identifies low-margin products that may require pricing adjustments.
+* **Bottleneck Identification:** Pinpoints regional or category based sales dips to enable faster intervention.
+* **Strategic Planning:** Provides data-backed insights for quarterly sales forecasting and inventory planning.
+
+## 🛠️ Tools Used
+* **Power BI** for Data Visualization.
+* **Advanced Excel** for Data Cleaning and Transformation.
+
+## 📊 Key Insights Captured
+* Yearly & Monthly Revenue Trends.
+* Product Performance Matrix (Top vs. Bottom performers).
+* Regional Profit Distribution.
+
